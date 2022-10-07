@@ -1,7 +1,7 @@
 package lexer
 
 import (
-	"github.com/prdpx7/cheena/token"
+	"github.com/prdpx7/monkey-iptr/token"
 )
 
 type Lexer struct {

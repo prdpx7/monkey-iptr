@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/prdpx7/cheena/lexer"
-	"github.com/prdpx7/cheena/token"
+	"github.com/prdpx7/monkey-iptr/lexer"
+	"github.com/prdpx7/monkey-iptr/token"
 )
 
 const PROMPT = ">> "

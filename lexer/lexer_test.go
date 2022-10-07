@@ -3,7 +3,7 @@ package lexer
 import (
 	"testing"
 
-	"github.com/prdpx7/cheena/token"
+	"github.com/prdpx7/monkey-iptr/token"
 )
 
 func TestNextToken(t *testing.T) {
